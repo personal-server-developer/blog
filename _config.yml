@@ -1,3 +1,4 @@
 title: My Blog
 description: GitHub Pages + Jekyll で作るブログ風サイト
 theme: jekyll-theme-minimal
+baseurl: "/blog"
