@@ -1,5 +1,5 @@
 title: My Blog
-description: GitHub Pages + Jekyll で作るブログ風サイト
-remote_theme: pages-themes/minimal@v0.2.0
+description: Blog built with Jekyll on GitHub Pages
+theme: minimal
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
