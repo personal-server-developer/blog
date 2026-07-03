@@ -1,5 +1,3 @@
 title: My Blog
 description: Minimal Jekyll blog
-theme: minimal
-baseurl: /blog
-url: "https://username.github.io"
+theme: null
